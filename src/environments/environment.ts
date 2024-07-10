@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiRepl:
-    'https://c2529a37-9baf-40d6-beb0-f02cd192bd7f-00-1tlnnlzzarv1s.spock.replit.dev/',
+    'https://1f4d4921-cd1a-4dde-bd1b-472405a38d93-00-1zhakq94b39dg.riker.replit.dev/',
 };
 
 /*
